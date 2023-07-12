@@ -1,26 +1,33 @@
-<h1 align="center">Hi 👋, I'm Md. Saiful Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+### Hi there 👋, my name is Md Saiful Islam
+####  A passionate frontend developer from Bangladesh
+![ A passionate frontend developer from Bangladesh]( https://scontent.fcgp28-1.fna.fbcdn.net/v/t39.30808-6/358694144_1444994956256616_2296946030671531819_n.jpg?stp=dst-jpg_p180x540&_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeF83UE5Qf46qCCnNdUdH-O8MrOI7ogsl_cys4juiCyX9wJGlgC-t28MDTVsp2fnwNIuQPrdMUJy2cuCuqUAcCrw&_nc_ohc=mmZWcY3BHpAAX_KBQKM&_nc_ht=scontent.fcgp28-1.fna&oh=00_AfCg4sGJ6O39-ewZuSOQ0FtOhwrhJt3pecL9R-jzbOYs0Q&oe=64B29B70)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiful963&label=Profile%20views&color=0e75b6&style=flat" alt="saiful963" /> </p>
+ I am a web developer. I love to Hard work] and also love to code. My passion and profession are one. I work very carefully. I like computers since childhood. I now want to become a full stack developer by learning backend better than a fronted developer. I wish I would be full stack sooner.
+I also do web designd
+Thank You 
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/sksaifulkhan10" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sksaifulkhan10?logo=twitter&style=for-the-badge" alt="https://twitter.com/sksaifulkhan10" /></a> </p>
+Skills:  REACT / JS / HTML / CSS
 
-- ⚡ Fun fact **I'm funny**
+- 🔭 I’m currently working on Web Designer 
+- 🌱 I’m currently learning Javascript 
+- 💬 Ask me about Html/css/javaScript 
+- ⚡ Fun fact: I'm Always funny 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/sksaifulkhan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sksaifulkhan10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ sk-saiful-khan-68545a283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ sk-saiful-khan-68545a283" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/saiful.prince.731?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/saiful.prince.731?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sksaifulkhan112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sksaifulkhan112/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@saiful546" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@saiful546" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saiful963)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sk-saiful-khan-68545a283/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sksaifulkhan112/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sksaifulkhan10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCLT71IEczu8Pkncs8-fQt0w)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiful963&show_icons=true&locale=en&layout=compact" alt="saiful963" /></p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiful963&show_icons=true&locale=en" alt="saiful963" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=saiful963)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiful963&" alt="saiful963" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiful963)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saiful963&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saiful963)  
+
+![GitHub metrics](https://metrics.lecoq.io/saiful963)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=saiful963)  
+
+![Profile views](https://gpvc.arturio.dev/saiful963)  
