@@ -6,7 +6,7 @@
 I also do web designd
 Thank You 
 
-Skills:  REACT / JS / HTML / CSS
+Skills:  REACT / JS / HTML / CSS/ Phython/ React to redux 
 
 - 🔭 I’m currently working on Web Designer 
 - 🌱 I’m currently learning Javascript 
