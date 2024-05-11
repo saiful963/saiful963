@@ -9,7 +9,7 @@ Thank You
 Skills:  REACT / JS / HTML / CSS/ Phython/ React to redux 
 
 - 🔭 I’m currently working on Web Designer 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning React 
 - 💬 Ask me about Html/css/javaScript 
 - ⚡ Fun fact: I'm Always funny 
 
