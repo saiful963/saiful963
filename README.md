@@ -132,10 +132,3 @@
 </div>
 
 ###
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saiful963)  
-
-![GitHub metrics](https://metrics.lecoq.io/saiful963)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=saiful963)  
-
-![Profile views](https://gpvc.arturio.dev/saiful963)  
