@@ -1,29 +1,137 @@
-# Hi there 👋, my name is Md Saiful Islam
-####  A passionate frontend developer from Bangladesh
-![ A passionate frontend developer from Bangladesh]( https://scontent.fcgp28-1.fna.fbcdn.net/v/t39.30808-6/358694144_1444994956256616_2296946030671531819_n.jpg?stp=dst-jpg_p180x540&_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeF83UE5Qf46qCCnNdUdH-O8MrOI7ogsl_cys4juiCyX9wJGlgC-t28MDTVsp2fnwNIuQPrdMUJy2cuCuqUAcCrw&_nc_ohc=mmZWcY3BHpAAX_KBQKM&_nc_ht=scontent.fcgp28-1.fna&oh=00_AfCg4sGJ6O39-ewZuSOQ0FtOhwrhJt3pecL9R-jzbOYs0Q&oe=64B29B70)
+<h1 align="left">Hi there 👋, my name is Md Saiful Islam</h1>
 
- I am a web developer. I love to Hard work] and also love to code. My passion and profession are one. I work very carefully. I like computers since childhood. I now want to become a full stack developer by learning backend better than a fronted developer. I wish I would be full stack sooner.
-I also do web designd
-Thank You 
+###
 
-Skills:  REACT / JS / HTML / CSS/ Phython/ React to redux 
+<p align="left">My name is Saiful Islam and I'm a student I from Bangladesh</p>
 
-- 🔭 I’m currently working on Web Designer 
-- 🌱 I’m currently learning React 
-- 💬 Ask me about Html/css/javaScript 
-- ⚡ Fun fact: I'm Always funny 
+###
 
+<h2 align="left">I am a web developer. I love to Hard work] and also love to code. My passion and profession are one. I work very carefully. I like computers since childhood. I now want to become a full stack developer by learning backend better than a fronted developer. I wish I would be full stack sooner. I also do web designd Thank You</h2>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saiful963)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sk-saiful-khan-68545a283/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sksaifulkhan112/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sksaifulkhan10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCLT71IEczu8Pkncs8-fQt0w)  
+###
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<p align="left">✨  I’m currently working on Web Designer And Web Developer<br>📚 I'm currently learning React<br>🎯 Goals: Best Web Developer<br>💬 Ask me about Html, Css , JavaScript/tailwindcss<br>🎲⚡ Fun fact: I'm Always funny</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saiful963)](https://github.com/ryo-ma/github-profile-trophy)
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiful963)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="left">I code with</h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saiful963&show_icons=true&count_private=true)  
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saiful963&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saiful963&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=saiful963&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=saiful963&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiful963&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCLT71IEczu8Pkncs8-fQt0w" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.facebook.com/saiful.prince.731" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://x.com/Sksaifulkhan10" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/sksaifulkhan112/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/saiful963/saiful963/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/saiful963/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://www.facebook.com/photo/?fbid=1444994922923286&set=a.184480652308059"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=buefy" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saiful963)  
 
 ![GitHub metrics](https://metrics.lecoq.io/saiful963)  
