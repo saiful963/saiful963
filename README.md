@@ -1,5 +1,3 @@
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/SKsaifulkhan10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>] 
-
 <h1 align="center">Hi 👋, I'm Saiful</h1>
 <h3 align="center">A passionate frontend developer and WordPress</h3>
 
