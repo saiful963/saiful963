@@ -1,134 +1,33 @@
-<h1 align="left">Hi there 👋, my name is Md Saiful Islam</h1>
+### Hi there 👋, my name is Saiful
+####  Web Developer
+![ Web Developer](https://pbs.twimg.com/profile_banners/1470746027275603971/1720765017/1500x500)
 
-###
+My name is Saiful Islam and I'm a student I from Bangladesh
 
-<p align="left">My name is Saiful Islam and I'm a student I from Bangladesh</p>
+I am a web developer. I love to Hard work and also love to code. My passion and profession are one. I work very carefully. I like computers since childhood. I now want to become a full stack developer by learning backend better than a fronted developer. I wish I would be full stack sooner. I also do web designed and front-end. I am consistently learning.Thank You
 
-###
+Skills:  Next.js / React.js / JS / HTML / CSS/ WordPress/ Figma
 
-<h2 align="left">I am a web developer. I love to Hard work] and also love to code. My passion and profession are one. I work very carefully. I like computers since childhood. I now want to become a full stack developer by learning backend better than a fronted developer. I wish I would be full stack sooner. I also do web designd Thank You</h2>
+- 🔭 I’m currently working on I’m currently working on Web Designer And Web Developer 
+- 🌱 I’m currently learning  I'm currently learning WordPress 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Html, CSS, tailwind CSS, JavaScript, React.js, Next.js  
+- 😄 Pronouns: I love my work and consistently learning 
+- ⚡ Fun fact:  I'm Always funny 
 
-###
 
-<p align="left">✨  I’m currently working on Web Designer And Web Developer<br>📚 I'm currently learning React<br>🎯 Goals: Best Web Developer<br>💬 Ask me about Html, Css , JavaScript/tailwindcss<br>🎲⚡ Fun fact: I'm Always funny</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/saiful963)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saiful112//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/saiful.prince.731)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sksaifulkhan112//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/SKsaifulkhan10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@saiful546)  
 
-###
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<h2 align="left">I code with</h2>
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/saiful963)](https://github.com/ryo-ma/github-profile-trophy)
 
-###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/saiful963)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/saiful963&show_icons=true)  
 
-###
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/saiful963/contributions?format=svg&private=false)  
 
-<div align="left">
-</div>
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/saiful963)  
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiful963&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saiful963&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=saiful963&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=saiful963&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiful963&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCLT71IEczu8Pkncs8-fQt0w" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.facebook.com/saiful.prince.731" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://x.com/Sksaifulkhan10" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/sksaifulkhan112/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/saiful963/saiful963/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/saiful963/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://www.facebook.com/photo/?fbid=1444994922923286&set=a.184480652308059"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=buefy" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
